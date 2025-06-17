@@ -1,6 +1,6 @@
 package Mensagem;
 
-public class Mensagem {
+public abstract class Mensagem {
     private String texto;
     private String emailRemetente;
     private Boolean anonima;
@@ -30,5 +30,6 @@ public class Mensagem {
         this.emailRemetente = emailRemetente;
     }
 
+    
 
 }
