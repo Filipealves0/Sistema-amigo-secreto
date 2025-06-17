@@ -30,5 +30,5 @@ public class Mensagem {
         this.emailRemetente = emailRemetente;
     }
 
- 
+
 }
